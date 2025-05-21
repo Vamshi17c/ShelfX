@@ -6,7 +6,7 @@ ShelfX is a dynamic platform designed to connect book enthusiasts for renting an
 
 - **Book Management**: Sellers can upload books for sale or rent.
 - **Request Handling**: Buyers can request books from sellers, with options to accept or decline requests.
-- **Admin Dashboard**: Tracks platform activity, including total books uploaded, rental/sales requests, and user actions.
+- **Admin Dashboard**: Tracks platform activity, including total books uploaded, rental/sales requests,revenue details and user activities.
 - **User Authentication**: Secure login for sellers, buyers, and admins.
 - **Responsive Design**: Mobile-friendly UI for smooth user experience.
 
