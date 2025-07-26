@@ -32,7 +32,7 @@ Ensure the following are installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Neeraj3737/ShelfX.git
+   git clone https://github.com/Vamshi17c/ShelfX.git
    cd shelfx
    ```
 
